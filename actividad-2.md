@@ -13,7 +13,8 @@ Analicemos el siguiente problema y representemos su solución mediante un algori
 ![Ejercicio](./Imágenes/Ejericio%202.png)
 ## Ejercicios
 
-1. Un **acuario** necesita determinar cuántos litros o galones (eso lo decide el usuario) de agua caben en un acuario, pero solo dispone de una cinta métrica (en centímetros). Diseña un algoritmo para solucionar el problema.   
+1. Un **acuario** necesita determinar cuántos litros o galones (eso lo decide el usuario) de agua caben en un acuario, pero solo dispone de una cinta métrica (en centímetros). Diseña un algoritmo para solucionar el problema.     
+
 ![Diagrama 1.1](./Imágenes/Ejericio%201.drawio.png)
 2. Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de lápices considerando que si son 1000 o más el costo es de $85 cada uno; de lo contrario, el precio es de $90. Represéntelo con el pseudocódigo y el diagrama de flujo.  
 ![Diagrama 2.2](./Imágenes/Ejercicio%202.2.drawio.png)
@@ -30,15 +31,26 @@ A continuación, se presentan enunciados relacionados con los temas tratados en 
 Responde si los siguientes enunciados representan un algoritmo. Justifica la respuesta:
 
 1. Una página web.  
-No representa un algoritmo ya que no es una secuencia de pasos para solucionar un problema.
-2. Una receta para hacer un pastel, donde se indican ingredientes y pasos a seguir.  
-Representa un algoritmo ya que se trata de una serie de pasos finitos para cumplir con algo.
-3. "Piensa en un número y multiplícalo por otro".
-No representa un algoritmo porque no es algo específico, da información muy general.
+
+    No representa un algoritmo ya que no es una secuencia de pasos para solucionar un problema.  
+
+2. Una receta para hacer un pastel, donde se indican 
+ingredientes y pasos a seguir.  
+
+    Representa un algoritmo ya que se trata de una serie de pasos finitos para cumplir con algo.  
+
+3. "Piensa en un número y multiplícalo por otro".  
+
+    No representa un algoritmo porque no es algo específico, da 
+información muy general.  
+
 4. Un manual de instrucciones para armar un mueble, con pasos detallados y un orden claro.  
-Si es un algoritmo pues tiene una serie de pasos finitos para resolver un problema.
+
+    Si es un algoritmo pues tiene una serie de pasos finitos para resolver un problema.  
+
 5. Una lista de compras organizada en orden alfabético  
-Aunque sea una lista no tiene unos pasos, por ende no es un algoritmo.
+
+    Aunque sea una lista no tiene unos pasos, por ende no es un algoritmo.
 
 ### Parte 2: Variables y Constantes
 
