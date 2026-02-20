@@ -9,11 +9,30 @@ Investiga cuáles son los símbolos que se utilizan para representar cada operac
 
 Analicemos el siguiente problema y representemos su solución mediante un algoritmo secuencial.
 
-- Construye un algoritmo que, al recibir como datos **el ID** del empleado y los seis primeros sueldos del año, calcule el ingreso total semestral y el promedio mensual, e imprima el ID del empleado, el ingreso total y el promedio mensual.      
+- Construye un algoritmo que, al recibir como datos **el ID** del empleado y los seis primeros sueldos del año, calcule el ingreso total semestral y el promedio mensual, e imprima el ID del empleado, el ingreso total y el promedio mensual.   
+
+Inicio  
+Leer ID, S1,S2,S3,S4,S5,S6  
+Total_semestral=S1+s2+s3+s4+s5+s6  
+Promedio=Total_semestral/6  
+Mostrar ID,Total_semestral,Promedio  
+
 ![Ejercicio](./Imágenes/Ejericio%202.png)
 ## Ejercicios
 
 1. Un **acuario** necesita determinar cuántos litros o galones (eso lo decide el usuario) de agua caben en un acuario, pero solo dispone de una cinta métrica (en centímetros). Diseña un algoritmo para solucionar el problema.     
+
+Inicio  
+Leer largo,ancho,alto,unidad    
+Volumen=Largo * ancho * alto  
+si unidad=litros  
+    Volumen_L=Volumen/1000    
+sino si unidad=galones   
+    Volumen_gl=Volumen/3785.45      
+Fin si  
+Fin  
+    
+
 
 ![Diagrama 1.1](./Imágenes/Ejericio%201.drawio.png)
 2. Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de lápices considerando que si son 1000 o más el costo es de $85 cada uno; de lo contrario, el precio es de $90. Represéntelo con el pseudocódigo y el diagrama de flujo.  
